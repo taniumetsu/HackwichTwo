@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		232DF6D32AAA93FF009D2CA5 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232DF6D22AAA93FF009D2CA5 /* secondViewController.swift */; };
 		23888C472AA7EC2100893E91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23888C462AA7EC2100893E91 /* AppDelegate.swift */; };
 		23888C492AA7EC2100893E91 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23888C482AA7EC2100893E91 /* SceneDelegate.swift */; };
 		23888C4B2AA7EC2100893E91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23888C4A2AA7EC2100893E91 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		232DF6D22AAA93FF009D2CA5 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		23888C432AA7EC2100893E91 /* HackwichTwo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichTwo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23888C462AA7EC2100893E91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23888C482AA7EC2100893E91 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		23888C3A2AA7EC2100893E91 = {
 			isa = PBXGroup;
 			children = (
+				232DF6D22AAA93FF009D2CA5 /* secondViewController.swift */,
 				23888C452AA7EC2100893E91 /* HackwichTwo */,
 				23888C5C2AA7EC2300893E91 /* HackwichTwoTests */,
 				23888C662AA7EC2300893E91 /* HackwichTwoUITests */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				232DF6D32AAA93FF009D2CA5 /* secondViewController.swift in Sources */,
 				23888C4B2AA7EC2100893E91 /* ViewController.swift in Sources */,
 				23888C472AA7EC2100893E91 /* AppDelegate.swift in Sources */,
 				23888C492AA7EC2100893E91 /* SceneDelegate.swift in Sources */,
