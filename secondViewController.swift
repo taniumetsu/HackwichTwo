@@ -15,15 +15,11 @@ class secondViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    @IBAction func changeColorButtonPressed(_ sender: Any) {
+        
+        //When the button is pressed the background color of the view is set to blue
+        self.view.backgroundColor = UIColor.blue
+        
     }
-    */
-
+    
 }
