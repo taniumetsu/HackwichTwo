@@ -39,5 +39,3 @@ class ViewController: UIViewController {
     
 }
 
-var pushTestOne = "test"
-var pushTestTwo = "hi2"

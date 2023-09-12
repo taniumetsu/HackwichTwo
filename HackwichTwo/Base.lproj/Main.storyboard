@@ -111,6 +111,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="nFw-we-VvV"/>
+                    <connections>
+                        <outlet property="firstLabel" destination="l1D-es-5Cd" id="ie5-GT-CW9"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="93P-h3-lmV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
